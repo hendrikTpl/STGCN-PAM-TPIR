@@ -8,7 +8,7 @@ An extended version of ST-GCN [1] for Action Recognition focused on mutual actio
     <img src="resource/info/coba.png">
 </div>
 
-### Undone
+### Todo
 - [ ] Pretrained for CV in PAM Mode
 - [ ] Kinetics's Selected Action
 - [ ] Kinetics Pretrained
@@ -90,23 +90,14 @@ main.py recognition -c config/MA_Mode/CS/pp.yaml
 ## How to cite?
 '''
 @INPROCEEDINGS{9190680,
-
   author={C. -L. {Yang} and A. {Setyoko} and H. {Tampubolon} and K. -L. {Hua}},
-
   booktitle={2020 IEEE International Conference on Image Processing (ICIP)}, 
-
-  title={Pairwise Adjacency Matrix on Spatial Temporal Graph Convolution Network for Skeleton-Based Two-Person Interaction Recognition}, 
-
+  title={Pairwise Adjacency Matrix on Spatial Temporal Graph Convolution Network for Skeleton-Based Two-Person Interaction Recognition},
   year={2020},
-
   volume={},
-
   number={},
-
   pages={2166-2170},
-
   doi={10.1109/ICIP40778.2020.9190680}}
-
 
 '''
 
