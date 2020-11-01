@@ -103,7 +103,7 @@ main.py recognition -c config/MA_Mode/CS/pp.yaml
 
 
 ## Contact
-For any question, feel free to contact
+For any question, feel free to contact us
 ```
 Aji   			: m10715805@mail.ntust.edu.tw
 Hendrik Tampubolon	: d10715806@mail.ntust.edu.tw
