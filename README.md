@@ -1,6 +1,6 @@
 # STGCN-PAM-TPIR
-This repo is contained the implemtation of the paper 2020 IEEE ICIP https://ieeexplore.ieee.org/document/9190680
-Pairwise Adjacency Matrix on Spatial Temporal Graph Convolution Network for Skeleton-Based Two-Person Interaction Recognition
+This repo is contained an implementation of the paper 2020 IEEE ICIP, Pairwise Adjacency Matrix on Spatial Temporal Graph Convolution Network for Skeleton-Based Two-Person Interaction Recognition(url: https://ieeexplore.ieee.org/document/9190680) and  a maintained version of our original repo https://github.com/ajisetyoko/mutual-action
+
 
 An extended version of ST-GCN [1] for Action Recognition focused on mutual action/Two-Person Interaction Recognition(TPIR).
 
