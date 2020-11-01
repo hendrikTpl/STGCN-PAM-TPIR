@@ -88,7 +88,8 @@ main.py recognition -c config/MA_Mode/CS/pp.yaml
 [5] https://ieeexplore.ieee.org/document/9190680
 
 ## How to cite?
-'''
+
+```
 @INPROCEEDINGS{9190680,
   author={C. -L. {Yang} and A. {Setyoko} and H. {Tampubolon} and K. -L. {Hua}},
   booktitle={2020 IEEE International Conference on Image Processing (ICIP)}, 
@@ -98,8 +99,8 @@ main.py recognition -c config/MA_Mode/CS/pp.yaml
   number={},
   pages={2166-2170},
   doi={10.1109/ICIP40778.2020.9190680}}
+```
 
-'''
 
 ## Contact
 For any question, feel free to contact
